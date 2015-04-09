@@ -24,6 +24,7 @@
 PREURL="http://dl.fullcirclemagazine.org/issue"
 LANG="en"
 FORMAT="pdf"
+#TODO: Specify download directory
 
 while getopts "el:" options; do
     case $options in
