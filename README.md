@@ -1,7 +1,9 @@
 # fcm-dl
-Download issues of [Full Circle Magazine](http://fullcirclemagazine.org/)
+Download issues of [Full Circle Magazine](http://fullcirclemagazine.org/).
 
 ## Usage
+Just pass the issue number as an argument.
+
 Download one issue.
 ```bash
 $ ./fcm-dl 7
