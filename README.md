@@ -27,3 +27,8 @@ Download in EPUB format.
 $ ./fcm-dl -e 67
 # issue67_en.epub
 ```
+
+
+## Unlicense
+
+This script is [unlicensed](https://unlicense.org/). Do whatever you want with it.
